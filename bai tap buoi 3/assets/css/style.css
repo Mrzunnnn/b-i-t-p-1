@@ -1,0 +1,13 @@
+.card-group{border: 1px solid black;
+    width: 320px;
+    height: ;
+background-color: rgb(255, 255, 255);}
+.container{
+    display: flex}
+.logo2{
+    width: 50px;
+    height:50px ;}
+    .title{font-weight:light
+     ;}
+     .container-2{display: flex;}
+     p{padding: 10px;}
