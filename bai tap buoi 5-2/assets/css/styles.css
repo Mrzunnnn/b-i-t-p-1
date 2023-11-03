@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bar img{padding-left: 800px;}
+
+
+.page {
+    padding-top: 100px;
+    display: flex;
+}
+
+
+
+.container {
+    width: 50%;
+    height: 700px;
+
+    padding-left: 500px;
+}
+
+
+h2 {
+    font-size: 50px;
+}
+
+
+.name {
+    padding-top: 40px;
+}
+
+.name input {
+    width: 400px;
+    height: 50px;
+
+}
+
+
+p {
+    padding-top: 40px;
+}
+
+
+ul li {
+    padding-top: 20px;
+    list-style: none;
+}
+
+
+.nationality {
+    padding-top: 30px;
+}
+
+.nationality select {
+    width: 300px;
+    height: 40px;
+}
+
+
+.box{padding-top: 30px;}
+
+.box button {
+    height: 40px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.container-right {
+    padding-left: 5px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+
+.bar-top {
+    display: flex;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+
+.bottom img {
+    width: 300px;
+    height: 50px;
+    object-fit: cover;
+    padding-top: 20px;
+}
+
+
+
+.bottom span {
+    padding-top: 20px;
+}
+
+
+h4 {
+    font-size: 30px;
+    padding-top: 20px;
+}
