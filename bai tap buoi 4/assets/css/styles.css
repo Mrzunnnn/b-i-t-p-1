@@ -172,8 +172,12 @@
     font-size: 20px;
     justify-content: space-around;
 }
-.bottom-container ul li{padding-top: 10px;
-list-style: none;}
+
+.bottom-container ul li {
+    padding-top: 10px;
+    list-style: none;
+}
+
 .logo-bottom {
     font-size: 30px;
 }

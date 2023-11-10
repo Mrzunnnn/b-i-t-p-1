@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 
-.bar img{padding-left: 800px;}
+.bar img {
+    padding-left: 800px;
+}
 
 
 .page {
@@ -34,7 +36,7 @@ h2 {
 .name input {
     width: 400px;
     height: 50px;
-
+    padding-left: 10px;
 }
 
 
@@ -53,13 +55,22 @@ ul li {
     padding-top: 30px;
 }
 
+.nationality select option{
+    width: 100%;
+  height: 56px;
+  padding-left: 10px;
+
+}
+
 .nationality select {
     width: 300px;
     height: 40px;
 }
 
 
-.box{padding-top: 30px;}
+.box {
+    padding-top: 30px;
+}
 
 .box button {
     height: 40px;
